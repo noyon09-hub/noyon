@@ -37,12 +37,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1780621842&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b9643bfc88bcf1bfde76283ab7ee1dc6
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Bangla",Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8?e=1780621842&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dad23f7974ea27947ea8f4dbb9110426
-#EXTINF:-1 tvg-name="T Sports (720p)" group-title="Unknown",T Sports (720p)
-https://trs1.aynaott.com/tsports/index.m3u8
+#EXTINF:-1 tvg-name="T Sports HD" group-title="FIFA World Cup 2026",T Sports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-name="T-Sports [3]" group-title="SPORTS",T-Sports [3]
+http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-name="Ekhon TV" group-title="BANGLA",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1780630637&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f30a6ba6ed8953d903eda763887e42a0
+#EXTINF:-1 tvg-name="Somoy TV" group-title="FIFA World Cup 2026",Somoy TV
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Bangla",My TV
 https://tvsen6.aynaott.com/mytv/index.m3u8?e=1780630636&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db99d38d5f85a4d7213973479454fd8a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
